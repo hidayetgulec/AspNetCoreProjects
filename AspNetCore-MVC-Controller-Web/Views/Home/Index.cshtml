@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Home - Index</h1>
+    <hr />
+    <p>Adı ve Soyadı : @ViewBag.adi @ViewBag.soyadi</p>
+    <p>Telefonu : @ViewData["telefon"]</p>
+    <p>Adresi : @TempData["adres"]</p>
+    <hr />
+    <h2>Öğrenci Bilgileri</h2>
+    <p>Adı ve Soyadı : @ViewBag.ogrenci.ad @ViewBag.ogrenci.soyad</p>
+    <p>Öğrenci Yaşı  : @ViewBag.ogrenci.yas</p>
+    <hr />
+    <h2>Müşteri Listesi</h2>
+    @foreach (string musteri in ViewData["musteriler"] as List<string>)
+    {
+        @musteri <br />
+    }
+
+</div>

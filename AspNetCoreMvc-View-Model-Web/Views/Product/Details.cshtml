@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_LayoutProduct.cshtml";
+}
+@model Product
+
+@section message {
+    <div class="alert alert-info" role="alert">
+        <p><b>@ViewBag.name Teknik Özellikleri</b></p>
+    </div>
+}
+@*@section nav{
+    <h2>Kategoriler</h2>
+    <ul class="list-unstyled list-group">
+        @foreach (var item in ViewBag.Categories)
+        {
+            <li class="list-group-item">@item.Name</li>
+        }
+    </ul>
+}*@
+
+@section nav{
+    <vc:category></vc:category>
+}
+
+<h2>Product Details page</h2>
+
+<p>Name : @Model.Name</p>
+<p>Stock : @Model.Stock</p>
+<p>Price : @Model.Price</p>
+
+
+
+

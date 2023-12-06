@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+@model LoginViewModel
+
+<h1>@ViewData["Title"]</h1>
+<div class="row">
+    @if (TempData["message"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["message"]
+        </div>
+    }
+    <div class="col-md-4">
+            <form asp-controller="Account" asp-action="Login" method="post">
+                <input type="hidden" name="ReturnUrl" value="@Model.ReturnUrl" />
+                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Username" class="form-control" />
+                    <label asp-for="Username" class="form-label"></label>
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Password" class="form-control"  />
+                    <label asp-for="Password" class="form-label"></label>
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="checkbox mb-3">
+                    <label asp-for="RememberMe" class="form-label">
+                        <input class="form-check-input" asp-for="RememberMe" />
+                        RememberMe
+                    </label>
+                </div>
+                <div>
+                    <button type="submit" class="w-100 btn btn-lg btn-primary">Log in</button>
+                </div>
+            </form>
+    </div>
+</div>

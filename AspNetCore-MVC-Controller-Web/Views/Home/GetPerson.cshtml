@@ -1,0 +1,18 @@
+﻿@*@using AspNetCore_MVC_Controller_Web.Models    _ViewImports.cshtml dosyasında tanımlı olduğundan burada tekrar yüklememize gerek yok.*@  
+@{
+    ViewData["Title"] = "GetPerson";
+}
+@model Person
+
+<h1>Personel Bilgisi</h1>
+
+<p>Kişisel Bilgileri : @Model.Ad @Model.Soyad</p>
+<p>İletişim Bilgileri : @Model.Telefon / @Model.Sehir</p>
+
+<hr />
+<br /><br />
+@*@{
+    var p = @ViewData["personel"] as Person;
+}
+<p>Adı ve Soyadı : @p.Ad @p.Soyad</p>*@
+

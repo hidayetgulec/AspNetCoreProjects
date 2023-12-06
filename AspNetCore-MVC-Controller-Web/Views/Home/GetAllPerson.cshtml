@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "GetAllPerson";
+}
+@model List<Person>
+
+<h1>Personel Listesi</h1>
+
+@{
+    var liste = Model;
+}
+
+@foreach (var p in liste)
+{
+    <p>@p.Id @p.Ad @p.Soyad @p.Telefon @p.Sehir</p>
+}

@@ -1,0 +1,15 @@
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\bin\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.deps.json
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\bin\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.dll
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\bin\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.pdb
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\bin\Debug\net7.0\Bright.NTierArchitecture.App.Entity.dll
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\bin\Debug\net7.0\Bright.NTierArchitecture.App.Entity.pdb
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\obj\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.csproj.AssemblyReference.cache
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\obj\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\obj\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.AssemblyInfoInputs.cache
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\obj\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.AssemblyInfo.cs
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\obj\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\obj\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.csproj.CopyComplete
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\obj\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.dll
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\obj\Debug\net7.0\refint\Bright.NTierArchitecture.App.DataAccess.dll
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\obj\Debug\net7.0\Bright.NTierArchitecture.App.DataAccess.pdb
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.DataAccess\obj\Debug\net7.0\ref\Bright.NTierArchitecture.App.DataAccess.dll

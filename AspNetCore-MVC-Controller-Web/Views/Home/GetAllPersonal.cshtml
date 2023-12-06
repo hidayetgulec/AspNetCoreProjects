@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "GetAllPersonal";
+}
+@model List<Person>
+
+<h1>Personel Listesi</h1>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Adı</th>
+            <th>Soyadı</th>
+            <th>Telefon</th>
+            <th>Şehir</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Ad</td>
+                <td>@p.Soyad</td>
+                <td>@p.Telefon</td>
+                <td>@p.Sehir</td>
+            </tr>  
+        }
+
+    </tbody>
+</table>
+

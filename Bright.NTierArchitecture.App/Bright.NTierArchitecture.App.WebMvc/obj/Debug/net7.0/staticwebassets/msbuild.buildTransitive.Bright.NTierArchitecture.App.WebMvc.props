@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Bright.NTierArchitecture.App.WebMvc.props" />
+</Project>

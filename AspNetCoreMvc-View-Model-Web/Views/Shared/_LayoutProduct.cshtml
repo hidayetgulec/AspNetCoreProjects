@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <partial name="_HeaderPartialView"></partial>
+            </header>
+        <nav class="text-center">
+            @RenderSection("message", required: false) @RenderSection("phone", false)
+        </nav>
+        <main>
+            <div class="row">
+                <div class="col-md-3">
+                    @RenderSection("nav", false)
+                   @* <vc:category></vc:category>*@
+                </div>
+                <div class="col-md-9">
+                    @RenderBody()
+                </div>
+            </div>
+        </main>
+
+        <footer class="container text-center text-muted pt-3">
+            <partial name="_FooterPartialView"></partial>
+        </footer>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

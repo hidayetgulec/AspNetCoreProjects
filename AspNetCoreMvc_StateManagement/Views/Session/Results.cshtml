@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Results";
+}
+
+<h1>Session Results</h1>
+
+<p>username : @ViewBag.user</p>
+<br />
+<p>password : @ViewBag.pwd</p>
+<br />
+<hr />
+Öğrenci Listesi<br /><br />
+@ViewBag.liste1
+<hr />
+<br />
+@foreach (var item in ViewBag.liste2)
+{
+    @item<br />
+}
+<br />
+<hr />
+Ürün Listesi
+<br />
+<br />
+@ViewBag.urun1
+<hr />
+<br />
+@foreach (var item in ViewBag.urun2)
+{
+    @item.Id @item.Name
+    <br />
+}

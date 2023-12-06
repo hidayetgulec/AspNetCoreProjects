@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspNetCoreMVC_Jquery_AJAX.props" />
+</Project>

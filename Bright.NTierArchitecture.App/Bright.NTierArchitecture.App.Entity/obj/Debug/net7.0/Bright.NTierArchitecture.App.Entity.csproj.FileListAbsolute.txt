@@ -1,0 +1,12 @@
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\bin\Debug\net7.0\Bright.NTierArchitecture.App.Entity.deps.json
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\bin\Debug\net7.0\Bright.NTierArchitecture.App.Entity.dll
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\bin\Debug\net7.0\Bright.NTierArchitecture.App.Entity.pdb
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\obj\Debug\net7.0\Bright.NTierArchitecture.App.Entity.csproj.AssemblyReference.cache
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\obj\Debug\net7.0\Bright.NTierArchitecture.App.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\obj\Debug\net7.0\Bright.NTierArchitecture.App.Entity.AssemblyInfoInputs.cache
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\obj\Debug\net7.0\Bright.NTierArchitecture.App.Entity.AssemblyInfo.cs
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\obj\Debug\net7.0\Bright.NTierArchitecture.App.Entity.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\obj\Debug\net7.0\Bright.NTierArchitecture.App.Entity.dll
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\obj\Debug\net7.0\refint\Bright.NTierArchitecture.App.Entity.dll
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\obj\Debug\net7.0\Bright.NTierArchitecture.App.Entity.pdb
+C:\VS-Net-2022\AspNetCoreMVC\Bright.NTierArchitecture.App\Bright.NTierArchitecture.App.Entity\obj\Debug\net7.0\ref\Bright.NTierArchitecture.App.Entity.dll

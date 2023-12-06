@@ -1,0 +1,244 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.WebMvc\\Bright.NTierArchitecture.App.WebMvc.csproj": {}
+  },
+  "projects": {
+    "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.DataAccess\\Bright.NTierArchitecture.App.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.DataAccess\\Bright.NTierArchitecture.App.DataAccess.csproj",
+        "projectName": "Bright.NTierArchitecture.App.DataAccess",
+        "projectPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.DataAccess\\Bright.NTierArchitecture.App.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Erkan Hoyman\\.nuget\\packages\\",
+        "outputPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erkan Hoyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Entity\\Bright.NTierArchitecture.App.Entity.csproj": {
+                "projectPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Entity\\Bright.NTierArchitecture.App.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Entity\\Bright.NTierArchitecture.App.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Entity\\Bright.NTierArchitecture.App.Entity.csproj",
+        "projectName": "Bright.NTierArchitecture.App.Entity",
+        "projectPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Entity\\Bright.NTierArchitecture.App.Entity.csproj",
+        "packagesPath": "C:\\Users\\Erkan Hoyman\\.nuget\\packages\\",
+        "outputPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erkan Hoyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Service\\Bright.NTierArchitecture.App.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Service\\Bright.NTierArchitecture.App.Service.csproj",
+        "projectName": "Bright.NTierArchitecture.App.Service",
+        "projectPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Service\\Bright.NTierArchitecture.App.Service.csproj",
+        "packagesPath": "C:\\Users\\Erkan Hoyman\\.nuget\\packages\\",
+        "outputPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erkan Hoyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.DataAccess\\Bright.NTierArchitecture.App.DataAccess.csproj": {
+                "projectPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.DataAccess\\Bright.NTierArchitecture.App.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.WebMvc\\Bright.NTierArchitecture.App.WebMvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.WebMvc\\Bright.NTierArchitecture.App.WebMvc.csproj",
+        "projectName": "Bright.NTierArchitecture.App.WebMvc",
+        "projectPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.WebMvc\\Bright.NTierArchitecture.App.WebMvc.csproj",
+        "packagesPath": "C:\\Users\\Erkan Hoyman\\.nuget\\packages\\",
+        "outputPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.WebMvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erkan Hoyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Service\\Bright.NTierArchitecture.App.Service.csproj": {
+                "projectPath": "C:\\VS-Net-2022\\AspNetCoreMVC\\Bright.NTierArchitecture.App\\Bright.NTierArchitecture.App.Service\\Bright.NTierArchitecture.App.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
